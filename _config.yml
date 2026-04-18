@@ -24,7 +24,7 @@ links:
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+description: "Academic webpage of Jiaqi Yao"
 baseurl: ""
 url: ""
 
@@ -38,12 +38,12 @@ analytics:
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
+  # - name: talks
   - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+  # - name: software
+  # - name: team
+  # - name: teaching
+  # - name: blogs
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
