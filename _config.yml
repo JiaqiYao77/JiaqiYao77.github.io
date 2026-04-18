@@ -12,12 +12,12 @@ photo: headshot.jpeg  # place your photo in images/
 # ============================================================
 links:
   google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
-  orcid: ""
+  github: "https://github.com/JiaqiYao77"
+  researchgate: ""
+  orcid: "https://orcid.org/my-orcid?orcid=0009-0008-9714-169X"
   twitter: ""
-  linkedin: ""
-  cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
+  linkedin: "https://www.linkedin.com/in/jiaqi-yao77/"
+  cv: "papers/CV.pdf"  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================
 # STEP 3: Site Settings
