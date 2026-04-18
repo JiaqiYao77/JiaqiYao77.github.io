@@ -4,7 +4,7 @@
 
 # EXAMPLE -- replace or delete
 - education:
-    - "(present) Ph.D. Biomedical Engineering, Northwestern University"
+    - "(Present) Ph.D. Biomedical Engineering, Northwestern University"
     - "(2025) B.S. Mathematics, Adelaide University"
     - "(2025) B.S. Mathematics, Ocean University of China"
   educationshort:
